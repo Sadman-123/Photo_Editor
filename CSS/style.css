@@ -1,0 +1,20 @@
+.box img{
+    height: 200px;
+    width: 200px;
+}
+.box{
+    text-align: center;
+}
+
+.box input{
+    cursor: grab;
+}
+body{
+    background-color: cyan;
+}
+.reset {
+    text-align: center;
+}
+.reset button{
+    border-radius: 20px;
+}
